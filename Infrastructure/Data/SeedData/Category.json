@@ -1,0 +1,119 @@
+[
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Dinner",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Breakfast",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Lunch",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Pizza",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Thali",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Snacks",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Sauces",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+         "ParentCategory": "0",
+        "CategoryName": "Momos",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+       "ParentCategory": "0",
+        "CategoryName": "Shakes",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Burgers",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Maggie",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Sandwiches",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    },
+    {
+        "ParentCategory": "0",
+        "CategoryName": "Rolls",
+        "RestaurantId": 1,
+        "ImageUrl": "",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2021-02-19 07:16:15.474472"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Id": "1",
+        "RestaurantId": "1",
+        "OptionGroupId": "1",
+        "OptionName": "Full",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:42:00.511558"
+    },
+    {
+        "Id": "2",
+        "RestaurantId": "1",
+        "OptionGroupId": "1",
+        "OptionName": "Half",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:42:02.669013"
+    },
+    {
+        "Id": "3",
+        "RestaurantId": "1",
+        "OptionGroupId": "2",
+        "OptionName": "Regular",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:44:17.149597"
+    },
+    {
+        "Id": "4",
+        "RestaurantId": "1",
+        "OptionGroupId": "2",
+        "OptionName": "Medium",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:44:18.738248"
+    },
+    {
+        "Id": "5",
+        "RestaurantId": "1",
+        "OptionGroupId": "2",
+        "OptionName": "Large",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:44:20.339815"
+    },
+    {
+        "Id": "6",
+        "RestaurantId": "1",
+        "OptionGroupId": "3",
+        "OptionName": "Cheese Slice",
+        "FoodType": "Veg",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:15.857998"
+    },
+    {
+        "Id": "7",
+        "RestaurantId": "1",
+        "OptionGroupId": "4",
+        "OptionName": " Coca Cola 250ML",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:47:49.296012"
+    },
+    {
+        "Id": "8",
+        "RestaurantId": "1",
+        "OptionGroupId": "5",
+        "OptionName": "Wheat Thin Crust",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:49:12.176819"
+    },
+    {
+        "Id": "9",
+        "RestaurantId": "1",
+        "OptionGroupId": "5",
+        "OptionName": "New Hand Tossed",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:49:13.774856"
+    },
+    {
+        "Id": "10",
+        "RestaurantId": "1",
+        "OptionGroupId": "5",
+        "OptionName": "Cheese Burst",
+        "FoodType": "NA",
+        "Status": true,
+        "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:49:15.375953"
+    }
+]

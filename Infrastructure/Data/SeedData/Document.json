@@ -1,0 +1,14 @@
+[
+    {
+        "Name":"Aadhar Card",
+        "DocumentType":"PDF"
+    },
+    {
+        "Name":"Voter Id",
+        "DocumentType":"PDF"
+    },
+    {
+        "Name":"GSTIN NO",
+        "DocumentType":"PDF"
+    }
+]

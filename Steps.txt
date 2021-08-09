@@ -1,0 +1,34 @@
+dotnet new sln
+dotnet new webapi -o API
+dotnet sln add API
+
+** make sure to add entityframecore version to match local cli version
+Microsoft.EntityFrameworkCore.Sqlite
+
+Create datacontext class
+
+cmd :- dotnet -info   // help us for finding dotnet cli sdk
+cmd :- dotnet tool list -g // help us for finding dotnet ef list
+
+https://www.nuget.org/packages/dotnet-ef/  for get dotnet-ef
+
+for install dotnet-ef tool | dotnet tool install --global dotnet-ef --version 5.0.5
+for update dotnet-ef tool | dotnet tool update --global dotnet-ef --version 5.0.5
+
+** make sure to add .design version to match local cli version
+Microsoft.EntityFrameworkCore.Design
+
+dotnet ef migrations add IntialCreate -o Data/Migrations
+
+dotnet new classlib -o Core  // which is contain
+
+"domain entities
+dotnet new classlib -o Infrastructure // which is contain context
+dotnet sln add Core
+dotnet sln add Infrastructure
+inside API folder :- dotnet add reference ../Infrastructure
+inside Infrastucture folder :- dotnet add reference ../Core
+
+dotnet restore
+cmd:- git status // For check git repo status
+cmd :- git init // For create git repository

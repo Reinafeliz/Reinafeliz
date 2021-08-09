@@ -1,0 +1,202 @@
+[
+    {
+        "Id": "1",
+        "OptionGroupId": "1",
+        "CategoryId": "3",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:41:50.240445"
+    },
+    {
+        "Id": "2",
+        "OptionGroupId": "1",
+        "CategoryId": "6",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:41:52.184931"
+    },
+    {
+        "Id": "3",
+        "OptionGroupId": "1",
+        "CategoryId": "11",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:41:53.783504"
+    },
+    {
+        "Id": "4",
+        "OptionGroupId": "1",
+        "CategoryId": "12",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:41:55.737692"
+    },
+    {
+        "Id": "5",
+        "OptionGroupId": "1",
+        "CategoryId": "13",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:41:57.300867"
+    },
+    {
+        "Id": "6",
+        "OptionGroupId": "1",
+        "CategoryId": "7",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:41:58.903381"
+    },
+    {
+        "Id": "7",
+        "OptionGroupId": "2",
+        "CategoryId": "10",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:44:15.539466"
+    },
+    {
+        "Id": "8",
+        "OptionGroupId": "3",
+        "CategoryId": "1",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:45:52.636587"
+    },
+    {
+        "Id": "9",
+        "OptionGroupId": "3",
+        "CategoryId": "2",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:45:54.433316"
+    },
+    {
+        "Id": "10",
+        "OptionGroupId": "3",
+        "CategoryId": "3",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:45:56.035506"
+    },
+    {
+        "Id": "11",
+        "OptionGroupId": "3",
+        "CategoryId": "4",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:45:57.618291"
+    },
+    {
+        "Id": "12",
+        "OptionGroupId": "3",
+        "CategoryId": "5",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:01.158592"
+    },
+    {
+        "Id": "13",
+        "OptionGroupId": "3",
+        "CategoryId": "6",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:02.738244"
+    },
+    {
+        "Id": "14",
+        "OptionGroupId": "3",
+        "CategoryId": "7",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:04.338203"
+    },
+    {
+        "Id": "15",
+        "OptionGroupId": "3",
+        "CategoryId": "8",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:05.937909"
+    },
+    {
+        "Id": "16",
+        "OptionGroupId": "3",
+        "CategoryId": "9",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:07.537707"
+    },
+    {
+        "Id": "17",
+        "OptionGroupId": "3",
+        "CategoryId": "10",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:09.138428"
+    },
+    {
+        "Id": "18",
+        "OptionGroupId": "3",
+        "CategoryId": "11",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:10.834020"
+    },
+    {
+        "Id": "19",
+        "OptionGroupId": "3",
+        "CategoryId": "12",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:12.658959"
+    },
+    {
+        "Id": "20",
+        "OptionGroupId": "3",
+        "CategoryId": "13",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:46:14.257506"
+    },
+    {
+        "Id": "21",
+        "OptionGroupId": "4",
+        "CategoryId": "10",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:47:25.616222"
+    },
+    {
+        "Id": "22",
+        "OptionGroupId": "4",
+        "CategoryId": "1",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:47:27.216892"
+    },
+    {
+        "Id": "23",
+        "OptionGroupId": "4",
+        "CategoryId": "2",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:47:29.144043"
+    },
+    {
+        "Id": "24",
+        "OptionGroupId": "4",
+        "CategoryId": "3",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:47:31.698399"
+    },
+    {
+        "Id": "25",
+        "OptionGroupId": "4",
+        "CategoryId": "4",
+         "Isdeleted":false,
+        "InsertedBy": "3",
+        "InsertedDate": "2021-04-13 14:47:33.659786"
+    }
+]

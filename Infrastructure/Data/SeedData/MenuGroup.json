@@ -1,0 +1,67 @@
+[
+    {
+      "Id": "1",
+      "RestaurantId": "1",
+      "Categories": "3,6,11,12,13,7",
+      "GroupName": "Quantity",
+      "MinSelectable": "1",
+      "MaxSelectable": "1",
+      "Status": true,
+      "IsValueAdded":false,
+      "Isdeleted": false,
+      "InsertedBy": "3",
+      "InsertedDate": "2021-04-13 14:41:48.430755"
+    },
+    {
+      "Id": "2",
+      "RestaurantId": "1",
+      "Categories": "10",
+      "GroupName": "Size",
+      "MinSelectable": "1",
+      "MaxSelectable": "1",
+      "Status": true,
+      "IsValueAdded":false,
+      "Isdeleted": false,
+      "InsertedBy": "3",
+      "InsertedDate": "2021-04-13 14:44:13.734194"
+    },
+    {
+      "Id": "3",
+      "RestaurantId": "1",
+      "Categories": "1,2,3,4,5,6,7,8,9,10,11,12,13",
+      "GroupName": "Extras",
+      "MinSelectable": "1",
+      "MaxSelectable": "10",
+      "Status": true,
+      "IsValueAdded":true,
+      "Isdeleted": false,
+      "InsertedBy": "3",
+      "InsertedDate": "2021-04-13 14:45:51.160352"
+    },
+    {
+      "Id": "4",
+      "RestaurantId": "1",
+      "Categories": "10,1,2,3,4,5,6,7,8,9,11,12,13",
+      "GroupName": "Addon",
+      "MinSelectable": "1",
+      "MaxSelectable": "10",
+      "Status": true,
+      "IsValueAdded":true,
+      "Isdeleted": false,
+      "InsertedBy": "3",
+      "InsertedDate": "2021-04-13 14:47:24.009078"
+    },
+    {
+      "Id": "5",
+      "RestaurantId": "1",
+      "Categories": "10",
+      "GroupName": "Crust",
+      "MinSelectable": "1",
+      "MaxSelectable": "10",
+      "Status": true,
+      "IsValueAdded":true,
+      "Isdeleted": false,
+      "InsertedBy": "3",
+      "InsertedDate": "2021-04-13 14:49:08.369712"
+     }
+  ]

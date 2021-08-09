@@ -1,0 +1,327 @@
+[
+  {
+    "ParentId": 0,
+    "Name": "ANDHRA PRADESH",
+    "Abbreviation": "AP",
+    "AlternateAbbreviation": "IN-AP",
+    "Code": "37",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "ARUNACHAL PRADESH",
+    "Abbreviation": "AR",
+    "AlternateAbbreviation": "IN-AR",
+    "Code": "12",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "ASSAM",
+    "Abbreviation": "AS",
+    "AlternateAbbreviation": "IN-AS",
+    "Code": "18",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "BIHAR",
+    "Abbreviation": "BR",
+    "AlternateAbbreviation": "IN-BR",
+    "Code": "10",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "CHHATTISGARH",
+    "Abbreviation": "CG",
+    "AlternateAbbreviation": "IN-CG",
+    "Code": "22",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "GOA",
+    "Abbreviation": "GA",
+    "AlternateAbbreviation": "IN-GA",
+    "Code": "30",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "GUJARAT",
+    "Abbreviation": "GJ",
+    "AlternateAbbreviation": "IN-GJ",
+    "Code": "24",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "HARYANA",
+    "Abbreviation": "HR",
+    "AlternateAbbreviation": "IN-HR",
+    "Code": "6",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "HIMACHAL PRADESH",
+    "Abbreviation": "HP",
+    "AlternateAbbreviation": "IN-HP",
+    "Code": "2",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "JAMMU AND KASHMIR",
+    "Abbreviation": "JK",
+    "AlternateAbbreviation": "IN-JK",
+    "Code": "1",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "JHARKHAND",
+    "Abbreviation": "JH",
+    "AlternateAbbreviation": "IN-JH",
+    "Code": "20",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "KARNATAKA",
+    "Abbreviation": "KA",
+    "AlternateAbbreviation": "IN-KA",
+    "Code": "29",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "KERALA",
+    "Abbreviation": "KL",
+    "AlternateAbbreviation": "IN-KL",
+    "Code": "32",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "MADHYA PRADESH",
+    "Abbreviation": "MP",
+    "AlternateAbbreviation": "IN-MP",
+    "Code": "23",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "MAHARASHTRA",
+    "Abbreviation": "MH",
+    "AlternateAbbreviation": "IN-MH",
+    "Code": "27",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "MANIPUR",
+    "Abbreviation": "MN",
+    "AlternateAbbreviation": "IN-MN",
+    "Code": "14",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "MEGHALAYA",
+    "Abbreviation": "ML",
+    "AlternateAbbreviation": "IN-ML",
+    "Code": "17",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "MIZORAM",
+    "Abbreviation": "MZ",
+    "AlternateAbbreviation": "IN-MZ",
+    "Code": "15",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "NAGALAND",
+    "Abbreviation": "NL",
+    "AlternateAbbreviation": "IN-NL",
+    "Code": "13",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "ORISSA",
+    "Abbreviation": "OR",
+    "AlternateAbbreviation": "IN-OR",
+    "Code": "21",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "id": 21,
+    "ParentId": 0,
+    "Name": "PUNJAB",
+    "Abbreviation": "PB",
+    "AlternateAbbreviation": "IN-PB",
+    "Code": "3",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "RAJASTHAN",
+    "Abbreviation": "RJ",
+    "AlternateAbbreviation": "IN-RJ",
+    "Code": "8",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "SIKKIM",
+    "Abbreviation": "SK",
+    "AlternateAbbreviation": "IN-RJ",
+    "Code": "11",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "TAMIL NADU",
+    "Abbreviation": "TN",
+    "AlternateAbbreviation": "IN-TN",
+    "Code": "33",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "TRIPURA",
+    "Abbreviation": "TR",
+    "AlternateAbbreviation": "IN-TR",
+    "Code": "16",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "UTTARAKHAND",
+    "Abbreviation": "UK",
+    "AlternateAbbreviation": "IN-UK",
+    "Code": "5",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "UTTAR PRADESH",
+    "Abbreviation": "UP",
+    "AlternateAbbreviation": "IN-UP",
+    "Code": "9",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "WEST BENGAL",
+    "Abbreviation": "WB",
+    "AlternateAbbreviation": "IN-WB",
+    "Code": "19",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "ANDAMAN AND NICOBAR ISLANDS",
+    "Abbreviation": "AN",
+    "AlternateAbbreviation": "IN-AN",
+    "Code": "35",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "CHANDIGARH",
+    "Abbreviation": "CH",
+    "AlternateAbbreviation": "IN-CH",
+    "Code": "4",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "DADRA AND NAGAR HAVELI",
+    "Abbreviation": "DH",
+    "AlternateAbbreviation": "IN-DH",
+    "Code": "26",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "DAMAN AND DIU",
+    "Abbreviation": "DD",
+    "AlternateAbbreviation": "IN-DD",
+    "Code": "25",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "DELHI",
+    "Abbreviation": "DL",
+    "AlternateAbbreviation": "IN-DL",
+    "Code": "7",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "LAKSHADWEEP",
+    "Abbreviation": "LD",
+    "AlternateAbbreviation": "IN-LD",
+    "Code": "31",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 0,
+    "Name": "PONDICHERRY",
+    "Abbreviation": "PY",
+    "AlternateAbbreviation": "IN-PY",
+    "Code": "34",
+    "Isdeleted": false,
+    "CountryId": 189
+  },
+  {
+    "ParentId": 32,
+    "Name": "JABALPUR",
+    "Abbreviation": "JBPL",
+    "AlternateAbbreviation": "",
+    "Code": "34",
+    "Isdeleted": false,
+    "CountryId": 189
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "Id": "1",
+        "Type": "GST",
+        "Isdeleted":false,
+        "InsertedBy":1,
+        "InsertedDate": "2020-12-03 15:03:25.635670"
+    },
+    {
+        "Id": "2",
+        "Type": "Service",
+        "Isdeleted": false,
+        "InsertedBy": 1,
+        "InsertedDate": "2020-12-03 15:04:18.336998"
+    }
+]
