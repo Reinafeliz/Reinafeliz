@@ -30,7 +30,7 @@ namespace API
             services.AddControllers();
             // services.AddDbContext<StoreContext>(x =>
             //    x.UseSqlite(_config.GetConnectionString("DefaultConnection")));
-              var serverVersion = new MySqlServerVersion(new Version(8, 0, 21));
+            var serverVersion = new MySqlServerVersion(new Version(8, 0, 21));
             services.AddDbContext<StoreContext>(x =>
                           x.UseMySql(_config.GetConnectionString("DefaultConnection"), serverVersion)
                           .EnableSensitiveDataLogging().EnableDetailedErrors());
@@ -67,10 +67,9 @@ namespace API
                 FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"Resources")),
                 RequestPath = new PathString("/Resources")
             });
-          
-            app.UseStaticFiles();
+
             app.UseCors("CorsPolicy");
-            app.UseAuthorization();
+            app.UseAuthentication();
             app.UseAuthorization();
             app.UseEndpoints(endpoints =>
             {
